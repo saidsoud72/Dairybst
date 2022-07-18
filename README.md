@@ -1,7 +1,7 @@
-# {DAIRY BUSINESS}
-#### {Brief description of application}, {17TH JULY 2021}
-This is a simple web site that produces reports for a dairy farm.
-#### By **{List of contributors}**
+# DAIRY BUSINESS
+#### {This is a simple web site that produces reports for a dairy farm.}, {17TH JULY 2021}
+
+#### By **{said Soud Omar}**
 ## Description
 {This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
 ## Setup/Installation Requirements
@@ -21,5 +21,5 @@ said.omar@student.moringaschool.com
 ### License
 This project is under MIT license.
 Copyright (c) {2022} 
-**{List of contributors or company name}**
+**{Said Soud Omar}**
   
