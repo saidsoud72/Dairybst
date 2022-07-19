@@ -3,7 +3,7 @@
 
 #### By **{said Soud Omar}**
 ## Description
-{This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
+{https://saidsoud72.github.io/Dairybst/ }
 ## Setup/Installation Requirements
 Clone the repository to your computer from https://github.com/saidsoud72/Dairybst.git
 Open the project using your preferred code editor, preferably Visual studio.
