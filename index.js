@@ -139,5 +139,6 @@ function monthlyDiff(){
     document.getElementById("p1").innerHTML +="<p>Your income for November is  ksh" + " "+  Math.floor(novIncomeAdd) + " "+ "the difference from the previous rate is ksh" + " "+ Math.floor((novIncomeAdd-novIncome) )
     document.getElementById("p1").innerHTML +="<p>Your income for December is  ksh" + " "+  Math.floor(decIncomeAdd) + " "+ "the difference from the previous rate is ksh" + " "+ Math.floor((decIncomeAdd-decIncome)) 
 
+    
 }
 
